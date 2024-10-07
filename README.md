@@ -1,7 +1,12 @@
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shackal762&theme=github_dark" alt=""/>
-  <img src ="https://github-readme-stats.vercel.app/api?username=shackal762&show_icons=true&theme=dark#gh-dark-mode-only" />
+  <img src ="https://github-readme-stats.vercel.app/api?username=shackal762&show_icons=true&theme=github_dark" />
+<br/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shackal762&theme=github_dark"" />
 </div>
+ 
+
+
 <!--
 **ShACKAL762/ShACKAL762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
